@@ -17,7 +17,7 @@ function login() {
         headers: {
             "Content-Type": "application/json"
         },
-        body: JSON.stringify(req)
+        body: JSON.stringify(req),
     })
     .then((res) => res.json())
     .then((res) => {
@@ -28,7 +28,7 @@ function login() {
         }
     })
     .catch((err) => {
-        console.error(new Error("로그인 중 에러 발생"));
-    })
+        console.error("로그인 중 에러 발생");
+    });
     
 }
