@@ -1,0 +1,34 @@
+2024-06-01 18:04:06 백앤드 info : The 3000 port server is up and running.
+2024-06-01 18:32:06 백앤드 info : The 3000 port server is up and running.
+2024-06-01 18:35:06 백앤드 info : The 3000 port server is up and running.
+2024-06-01 18:36:06 백앤드 info : GET /login 200 "로그인 화면으로 이동"
+2024-06-01 18:36:06 백앤드 info : POST / 200 Response: "success: true, msg: undefined"
+2024-06-01 18:36:06 백앤드 info : GET / 200 "홈 화면으로 이동"
+2024-06-01 18:38:06 백앤드 info : The 3000 port server is up and running.
+2024-06-01 18:38:06 백앤드 info : The 3000 port server is up and running.
+2024-06-01 18:38:06 백앤드 info : POST / 200 Response: "success: false, msg: TypeError: Cannot destructure property 'id' of '(intermediate value)' as it is undefined."
+2024-06-01 18:39:06 백앤드 info : GET /login 200 "로그인 화면으로 이동"
+2024-06-01 18:39:06 백앤드 info : POST / 200 Response: "success: false, msg: 비밀번호가 틀렸습니다."
+2024-06-01 18:41:06 백앤드 info : The 3000 port server is up and running.
+2024-06-01 18:41:06 백앤드 info : The 3000 port server is up and running.
+2024-06-01 18:44:06 백앤드 info : The 3000 port server is up and running.
+2024-06-01 18:44:06 백앤드 info : The 3000 port server is up and running.
+2024-06-01 18:44:06 백앤드 info : POST / 200 Response: "success: false, msg: Error: ER_NO_SUCH_TABLE: Table 'login_lecture.users1' doesn't exist"
+2024-06-01 18:44:06 백앤드 error : [object Object]
+2024-06-01 18:45:06 백앤드 info : The 3000 port server is up and running.
+2024-06-01 18:46:06 백앤드 info : The 3000 port server is up and running.
+2024-06-01 18:46:06 백앤드 error : POST /login 200 Response: "success: false, msg: Error: ER_NO_SUCH_TABLE: Table 'login_lecture.users1' doesn't exist"
+2024-06-01 18:48:06 백앤드 info : The 3000 port server is up and running.
+2024-06-01 18:48:06 백앤드 info : The 3000 port server is up and running.
+2024-06-01 18:49:06 백앤드 info : The 3000 port server is up and running.
+2024-06-01 18:49:06 백앤드 info : The 3000 port server is up and running.
+2024-06-01 18:50:06 백앤드 info : GET /login 200 "로그인 화면으로 이동"
+2024-06-01 18:50:06 백앤드 info : GET /register 200 "회원가입 화면으로 이동"
+2024-06-01 18:50:06 백앤드 error : POST /login 200 Response: "success: false, msg: Error: ER_NO_SUCH_TABLE: Table 'login_lecture.users1' doesn't exist"
+2024-06-01 18:52:06 백앤드 info : The 3000 port server is up and running.
+2024-06-01 18:52:06 백앤드 info : The 3000 port server is up and running.
+2024-06-01 18:53:06 백앤드 info : The 3000 port server is up and running.
+2024-06-01 18:54:06 백앤드 error : POST /login 200 Response: "success: false, msg: Error: ER_NO_SUCH_TABLE: Table 'login_lecture.users1' doesn't exist"
+2024-06-01 18:54:06 백앤드 info : ::1 - - [01/Jun/2024:09:54:01 +0000] "POST /register HTTP/1.1" 200 93
+
+2024-06-01 18:54:06 백앤드 info : The 3000 port server is up and running.
